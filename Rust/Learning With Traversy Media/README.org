@@ -1,0 +1,3 @@
+#+title: Rust Crash Scours By Traversal Media
+#+AUTHOR: Hamza zarrouk
+#+DESCRIPTION: Learning the Fundamentals of rust

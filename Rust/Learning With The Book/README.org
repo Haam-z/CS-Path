@@ -1,0 +1,3 @@
+#+title: Rust As The Rustacean Learned it
+#+AUTHOR: Hamza zarrouk
+#+DESCRIPTION: going deaper in rust using the BOOK
